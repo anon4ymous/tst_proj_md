@@ -1,6 +1,7 @@
 # Image test
 
-![Here is an image](profileImg.png)
+[![Here is an image](profileImg.png)](../README.md)
+[![Alt Text](image-url)](link-url)
 This is an image
 
 *Resume:**
